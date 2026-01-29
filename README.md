@@ -23,9 +23,7 @@ local vs visitante y rendimiento de equipos.
 - Power Query
 - GitHub
 
-## Vista previa
-
-## 🚀 Cómo usar el proyecto
+##  Cómo usar el proyecto
 1. Descarga el repositorio
 2. Abre el archivo `.pbix` en Power BI Desktop
 3. Asegúrate de que el CSV esté en la carpeta `/data`
